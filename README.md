@@ -1,6 +1,6 @@
 🌐 Cryptocurrency Enthusiast Since 2022
 
-Greetings! I'm [Your Full Name], diving into the fascinating realm of cryptocurrencies since 2022. I've become deeply immersed in this dynamic space, acquiring valuable experience as a validator node operator.
+Greetings! I'm Kuzin Dmytro, diving into the fascinating realm of cryptocurrencies since 2022. I've become deeply immersed in this dynamic space, acquiring valuable experience as a validator node operator.
 
 💼 Validator Node Experience
 
@@ -19,5 +19,5 @@ I thrive in high-intensity environments and am always prepared to put in the ext
 If you're looking for someone passionate about cryptocurrencies, experienced in validator node operations, and committed to delivering results, I believe I can bring valuable skills to the table. I'm eager to discuss how my background aligns with your needs and contributes to the success of your projects.
 
 Best regards,
-[Your Full Name]
+Kuzin Dmytro
 
